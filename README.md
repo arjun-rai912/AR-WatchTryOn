@@ -3,7 +3,11 @@
 # Demo
 
 
-https://github.com/arjun-rai912/AR-WatchTryOn/assets/85013470/9c1c9856-cfce-48a4-b36e-5586d9d9cd39
+https://github.com/arjun-rai912/AR-WatchTryOn/assets/85013470/f19f8974-3f4b-48f2-b5bb-27437b8453b6
+
+
+
+
 
 
 

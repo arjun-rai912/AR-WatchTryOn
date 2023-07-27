@@ -63,4 +63,4 @@ We would like to acknowledge the open-source community and the developers of Uni
 
 Happy Watch Try-On! 🕰️👍
 
-[![Ar-WatchTryOn Demo](demo.png)](https://www.example.com) (Replace `https://www.example.com` with a link to a demo video or live demo, if available)
+

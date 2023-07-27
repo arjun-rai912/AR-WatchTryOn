@@ -3,7 +3,11 @@
 # Demo
 
 
-https://github.com/arjun-rai912/AR-WatchTryOn/assets/85013470/f19f8974-3f4b-48f2-b5bb-27437b8453b6
+
+
+
+
+https://github.com/arjun-rai912/AR-WatchTryOn/assets/85013470/ec91f54c-88ef-4fd1-8c6f-7f90b76e0696
 
 
 
@@ -12,7 +16,7 @@ https://github.com/arjun-rai912/AR-WatchTryOn/assets/85013470/f19f8974-3f4b-48f2
 
 
 
-Ar-WatchTryOn is a project that allows users to virtually try on different watches and customize the color of the strap. It provides an immersive augmented reality experience where users can see how different watches look on their wrist before making a purchase decision. The application was developed using the Vuforia Engine in Unity, which enables seamless integration of augmented reality features.
+Ar-WatchTryOn is a project that allows users to virtually try on different watches and customize the color of the strap. It provides an immersive augmented reality experience where users can see how different watches look on their wrists before making a purchase decision. The application was developed using the Vuforia Engine in Unity, which enables seamless integration of augmented reality features.
 
 ## Features
 
